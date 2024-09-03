@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c84572d4f027ed37",
+        "id": "e5d25bb1557d7ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "193b12a31d7ead40",
+            "id": "86f33567b76231bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a7167cf5cc2932c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditional probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5
   },
   "right": {
     "id": "a181d96b8295941c",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classic definition of probability.md",
+                "file": "Conditional probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classic definition of probability.md",
+                "file": "Conditional probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classic definition of probability.md"
+                "file": "Conditional probability.md"
               }
             }
           }
@@ -146,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "193b12a31d7ead40",
+  "active": "3a7167cf5cc2932c",
   "lastOpenFiles": [
-    "HelloWorld.md",
+    "Bayes'.md",
+    "Conditional probability.md",
+    "images/law-of-total-probability.png",
+    "images",
     "Classic definition of probability.md",
+    "Geometric probability.md",
+    "Untitled.canvas",
     "Welcome.md"
   ]
 }

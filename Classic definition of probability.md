@@ -1,7 +1,16 @@
+---
+id: Classic definition of probability
+aliases:
+  - Outcome
+  - Event
+  - Sample Space
+tags:
+---
+
 The probability of an event is the ratio of the number of favorable outcomes to the total number of possible outcomes in the experiment.
-# Outcome
+# Outcome and Sample Space
 Those outcomes ${\omega_{1}, \omega_{2}, \omega_{3} \dots }$ must satisfy the following conditions:
-1)  Those outcomes are actually all possible outcomes that can occur in the experiment (**collectively exhaustive**).
+1) Those outcomes are actually all possible outcomes that can occur in the experiment (**collectively exhaustive**).
 2) Those outcomes are **mutually exclusive** (or pairwise incompatible).
 3) All outcomes are equally possible .
 
