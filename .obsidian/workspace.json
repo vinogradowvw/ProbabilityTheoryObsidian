@@ -11,28 +11,36 @@
             "id": "86f33567b76231bb",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "40177340b6d2090e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Classic definition of probability.md",
+                "file": "Random walk.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3a7167cf5cc2932c",
+            "id": "82302c1daa9b43a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditional probability.md",
+                "file": "Poisson limit theorem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditional probability.md",
+                "file": "Poisson limit theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conditional probability.md",
+                "file": "Poisson limit theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conditional probability.md"
+                "file": "Poisson limit theorem.md"
               }
             }
           }
@@ -159,14 +167,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a7167cf5cc2932c",
+  "active": "82302c1daa9b43a6",
   "lastOpenFiles": [
-    "Bayes'.md",
+    "Random walk.md",
+    "Poisson limit theorem.md",
+    "images/random-walk.png",
+    "Bernoulli scheme.md",
     "Conditional probability.md",
-    "images/law-of-total-probability.png",
-    "images",
     "Classic definition of probability.md",
     "Geometric probability.md",
+    "Bayes'.md",
+    "images/law-of-total-probability.png",
+    "images",
     "Untitled.canvas",
     "Welcome.md"
   ]
