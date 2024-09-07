@@ -11,17 +11,9 @@
             "id": "86f33567b76231bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "40177340b6d2090e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Random walk.md",
+                "file": "Classic definition of probability.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,9 +23,43 @@
             "id": "82302c1daa9b43a6",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "images/geometric-probability.png"
+              }
+            }
+          },
+          {
+            "id": "772f98c51224b9b0",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Poisson limit theorem.md",
+                "file": "Random variable, cumulative distribution function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "142e0a210e30016b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kolmogorov's probability axioms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16082eea375970ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Random variable, cumulative distribution function.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poisson limit theorem.md",
+                "file": "Random variable, cumulative distribution function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poisson limit theorem.md",
+                "file": "Random variable, cumulative distribution function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poisson limit theorem.md"
+                "file": "Random variable, cumulative distribution function.md"
               }
             }
           }
@@ -167,15 +193,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82302c1daa9b43a6",
+  "active": "772f98c51224b9b0",
   "lastOpenFiles": [
+    "images/cdf-discrete.png",
+    "images/cdf-normal.png",
     "Random walk.md",
+    "Random variable, cumulative distribution function.md",
     "Poisson limit theorem.md",
-    "images/random-walk.png",
-    "Bernoulli scheme.md",
+    "Moivre–Laplace theorem.md",
+    "Kolmogorov's probability axioms.md",
+    "Geometric probability.md",
+    "images/geometric-probability.png",
     "Conditional probability.md",
     "Classic definition of probability.md",
-    "Geometric probability.md",
+    "Bernoulli scheme.md",
+    "images/random-walk.png",
     "Bayes'.md",
     "images/law-of-total-probability.png",
     "images",

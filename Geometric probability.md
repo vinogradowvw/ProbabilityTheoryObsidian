@@ -13,20 +13,7 @@ From the fact that time is continuous variable it is impossible to count all pos
 In this problem the set of all outcomes when those persons will meet is just a set of points $|A-B| \leq 0.25$ 
 
 The condition $∣A−B∣≤0.25$ represents the requirement that the absolute difference between the arrival times of the two persons must be less than or equal to 15 minutes (0.25 hours) for them to meet.
-
-```functionplot
----
-title: 
-xLabel: Person 1
-yLabel: Person 2
-bounds: [0,1,0,1]
-disableZoom: false
-grid: true
----
-f(x) = x + 0.15
-g(x) = x - 0.15
-```
-
+![[geometric-probability.png]]
 Here, on the plot the point represents a single outcome.
 The set of points that represent the event when those persons will meet is between this line.
 
