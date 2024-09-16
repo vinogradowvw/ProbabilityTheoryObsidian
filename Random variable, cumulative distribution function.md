@@ -3,6 +3,7 @@ aliases:
   - random variable
   - cumulative distribution function
   - CDF
+  - distribution
 ---
 # Random variable
 Random variable is a mathematical formalization of a measurable property of an random object from [[Classic definition of probability|Sample Space]] $\Omega$
