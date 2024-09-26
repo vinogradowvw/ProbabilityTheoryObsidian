@@ -18,4 +18,4 @@ $$
 P(\mu_{n} \leq x) =  \sum_{k\leq x} P(\mu = k) 
 $$
 ![[binompmf.png]]
-![[binomcdf.png]] !
+![[binomcdf.png]] 
