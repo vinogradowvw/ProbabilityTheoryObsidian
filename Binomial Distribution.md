@@ -9,7 +9,7 @@ It follows:
 In context of binomial **distribution**, $\mu_{n}$ is binomial [[Random variable, cumulative distribution function|random variable]] with binomial distribution.
 $$\mu_{n} \sim Binom(n, p)$$
 
-The [[PMF]] of the Binomial Distribution is given by:
+The [[Absolutely continuous random variable, Probability density function|PDF]] of the Binomial Distribution is given by:
 $$
 P(\mu_{n} = x) = {C}_{n}^x \cdot p^x \cdot q^{n-x}
 $$
